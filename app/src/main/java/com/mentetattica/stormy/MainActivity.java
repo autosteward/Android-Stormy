@@ -14,6 +14,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.mentetattica.stormy.Weather.CurrentWeather;
 import com.mentetattica.stormy.databinding.ActivityMainBinding;
 
 import org.json.JSONException;

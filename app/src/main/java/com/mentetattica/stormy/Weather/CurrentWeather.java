@@ -1,4 +1,6 @@
-package com.mentetattica.stormy;
+package com.mentetattica.stormy.Weather;
+
+import com.mentetattica.stormy.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
